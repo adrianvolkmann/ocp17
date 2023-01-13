@@ -9,6 +9,8 @@
 	<modules>
 		<module>IO</module>
 		<module>JDBC</module>
+		<module>CollectionsAndGenerics</module>
+		<module>10_Streams</module>
 	</modules>
 
 	<properties>
